@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/2vwSc3sPiYFuz9xESZ5EWKrym0tC2UWXe/0F6zVy0Zj+i7WHufdinrXKXnfpAiMts7fPB2Yt/rXB7kxnRC3bQ==",
+  "success": true,
+  "projectFilePath": "C:\\$Algorithm&DS\\MaximumPairwiseProduct\\MaximumPairwiseProduct\\MaximumPairwiseProduct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mark\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

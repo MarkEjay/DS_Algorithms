@@ -1,0 +1,13 @@
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\bin\Debug\netcoreapp3.1\MaximumPairwiseProduct.exe
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\bin\Debug\netcoreapp3.1\MaximumPairwiseProduct.deps.json
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\bin\Debug\netcoreapp3.1\MaximumPairwiseProduct.runtimeconfig.json
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\bin\Debug\netcoreapp3.1\MaximumPairwiseProduct.runtimeconfig.dev.json
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\bin\Debug\netcoreapp3.1\MaximumPairwiseProduct.dll
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\bin\Debug\netcoreapp3.1\MaximumPairwiseProduct.pdb
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\obj\Debug\netcoreapp3.1\MaximumPairwiseProduct.csprojAssemblyReference.cache
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\obj\Debug\netcoreapp3.1\MaximumPairwiseProduct.AssemblyInfoInputs.cache
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\obj\Debug\netcoreapp3.1\MaximumPairwiseProduct.AssemblyInfo.cs
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\obj\Debug\netcoreapp3.1\MaximumPairwiseProduct.csproj.CoreCompileInputs.cache
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\obj\Debug\netcoreapp3.1\MaximumPairwiseProduct.dll
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\obj\Debug\netcoreapp3.1\MaximumPairwiseProduct.pdb
+C:\$Algorithm&DS\MaximumPairwiseProduct\MaximumPairwiseProduct\obj\Debug\netcoreapp3.1\MaximumPairwiseProduct.genruntimeconfig.cache

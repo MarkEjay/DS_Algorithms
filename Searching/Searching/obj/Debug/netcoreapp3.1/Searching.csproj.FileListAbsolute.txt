@@ -1,0 +1,13 @@
+C:\$Algorithm&DS\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.exe
+C:\$Algorithm&DS\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.deps.json
+C:\$Algorithm&DS\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.runtimeconfig.json
+C:\$Algorithm&DS\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.runtimeconfig.dev.json
+C:\$Algorithm&DS\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.dll
+C:\$Algorithm&DS\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.pdb
+C:\$Algorithm&DS\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.AssemblyInfoInputs.cache
+C:\$Algorithm&DS\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.AssemblyInfo.cs
+C:\$Algorithm&DS\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.csproj.CoreCompileInputs.cache
+C:\$Algorithm&DS\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.dll
+C:\$Algorithm&DS\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.pdb
+C:\$Algorithm&DS\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.genruntimeconfig.cache
+C:\$Algorithm&DS\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.csprojAssemblyReference.cache

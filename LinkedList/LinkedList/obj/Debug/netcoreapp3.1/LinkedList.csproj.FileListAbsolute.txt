@@ -1,0 +1,13 @@
+C:\$Algorithm&DS\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+C:\$Algorithm&DS\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+C:\$Algorithm&DS\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+C:\$Algorithm&DS\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+C:\$Algorithm&DS\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+C:\$Algorithm&DS\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+C:\$Algorithm&DS\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csprojAssemblyReference.cache
+C:\$Algorithm&DS\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+C:\$Algorithm&DS\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+C:\$Algorithm&DS\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+C:\$Algorithm&DS\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+C:\$Algorithm&DS\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+C:\$Algorithm&DS\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache
